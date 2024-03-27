@@ -6,7 +6,6 @@ Page 2 (Login)
 
 
 Page 3 (Home)
-![Page 3](https://github.com/breub6/TUGAS/assets/112238260/8b5e28f5-3e26-431b-ba5f-1a50b89fa3cc)
 
 
 Page 4 (Profile)
